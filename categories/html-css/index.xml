@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML &amp; CSS on Cher Dreamer</title>
+    <link>https://cherlee0.github.io/categories/html-css/</link>
+    <description>Recent content in HTML &amp; CSS on Cher Dreamer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://cherlee0.github.io/categories/html-css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>post 6</title>
+      <link>https://cherlee0.github.io/blog/post-6/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://cherlee0.github.io/blog/post-6/</guid>
+      <description>Inline HTML You can also use raw HTML in your Markdown, and it&amp;rsquo;ll mostly work pretty well.</description>
+    </item>
+    
+    <item>
+      <title>Post 2</title>
+      <link>https://cherlee0.github.io/blog/post-2/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://cherlee0.github.io/blog/post-2/</guid>
+      <description>Emphasis Emphasis, aka italics, with asterisks or underscores.
+Strong emphasis, aka bold, with asterisks or underscores.</description>
+    </item>
+    
+    <item>
+      <title>Post 1</title>
+      <link>https://cherlee0.github.io/blog/post-1/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0800</pubDate>
+      
+      <guid>https://cherlee0.github.io/blog/post-1/</guid>
+      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 </description>
+    </item>
+    
+  </channel>
+</rss>
