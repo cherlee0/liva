@@ -2,83 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cher Dreamer</title>
-    <link>https://cherlee0.github.io/</link>
+    <link>https://cherlee0.github.io/liva/</link>
     <description>Recent content on Cher Dreamer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://cherlee0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 09 Apr 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://cherlee0.github.io/liva/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>post 8</title>
-      <link>https://cherlee0.github.io/blog/post-8/</link>
+      <link>https://cherlee0.github.io/liva/blog/post-8/</link>
       <pubDate>Fri, 09 Apr 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://cherlee0.github.io/blog/post-8/</guid>
+      <guid>https://cherlee0.github.io/liva/blog/post-8/</guid>
       <description>Test for post 8</description>
     </item>
     
     <item>
       <title>post 7</title>
-      <link>https://cherlee0.github.io/blog/post-7/</link>
+      <link>https://cherlee0.github.io/liva/blog/post-7/</link>
       <pubDate>Wed, 07 Apr 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://cherlee0.github.io/blog/post-7/</guid>
+      <guid>https://cherlee0.github.io/liva/blog/post-7/</guid>
       <description>Test for post 7</description>
     </item>
     
     <item>
       <title>post 6</title>
-      <link>https://cherlee0.github.io/blog/post-6/</link>
+      <link>https://cherlee0.github.io/liva/blog/post-6/</link>
       <pubDate>Tue, 06 Apr 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://cherlee0.github.io/blog/post-6/</guid>
+      <guid>https://cherlee0.github.io/liva/blog/post-6/</guid>
       <description>Inline HTML You can also use raw HTML in your Markdown, and it&amp;rsquo;ll mostly work pretty well.</description>
     </item>
     
     <item>
       <title>Post 5</title>
-      <link>https://cherlee0.github.io/blog/post-5/</link>
+      <link>https://cherlee0.github.io/liva/blog/post-5/</link>
       <pubDate>Mon, 05 Apr 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://cherlee0.github.io/blog/post-5/</guid>
+      <guid>https://cherlee0.github.io/liva/blog/post-5/</guid>
       <description>Code and Syntax Highlighting Inline code has back-ticks around it.</description>
     </item>
     
     <item>
       <title>post 4</title>
-      <link>https://cherlee0.github.io/blog/post-4/</link>
+      <link>https://cherlee0.github.io/liva/blog/post-4/</link>
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://cherlee0.github.io/blog/post-4/</guid>
+      <guid>https://cherlee0.github.io/liva/blog/post-4/</guid>
       <description>Paragraph This is post 4 paragraph.
 List  List item List item List item List item List item  Unordered List  List item List item List item List item List item  </description>
     </item>
     
     <item>
       <title>Post 3</title>
-      <link>https://cherlee0.github.io/blog/post-3/</link>
+      <link>https://cherlee0.github.io/liva/blog/post-3/</link>
       <pubDate>Sat, 03 Apr 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://cherlee0.github.io/blog/post-3/</guid>
+      <guid>https://cherlee0.github.io/liva/blog/post-3/</guid>
       <description>Link I&amp;rsquo;m an inline-style link
 I&amp;rsquo;m an inline-style link with title</description>
     </item>
     
     <item>
       <title>Post 2</title>
-      <link>https://cherlee0.github.io/blog/post-2/</link>
+      <link>https://cherlee0.github.io/liva/blog/post-2/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://cherlee0.github.io/blog/post-2/</guid>
+      <guid>https://cherlee0.github.io/liva/blog/post-2/</guid>
       <description>Emphasis Emphasis, aka italics, with asterisks or underscores.
 Strong emphasis, aka bold, with asterisks or underscores.</description>
     </item>
     
     <item>
       <title>Post 1</title>
-      <link>https://cherlee0.github.io/blog/post-1/</link>
+      <link>https://cherlee0.github.io/liva/blog/post-1/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0800</pubDate>
       
-      <guid>https://cherlee0.github.io/blog/post-1/</guid>
+      <guid>https://cherlee0.github.io/liva/blog/post-1/</guid>
       <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 </description>
     </item>
     
